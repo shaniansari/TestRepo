@@ -3,8 +3,8 @@
 
 # In[2]:
 
-
-print(" ====== BIO DATA =====")
+title="Bio Data"
+print(" ======",title,"  =====")
 print("Name : Zeeshan ")
 print("F. name = Waseem")
 print("Cell No: 0333123456")
