@@ -1,19 +1,21 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
-
 title="Bio Data"
+name = "Zeeshan"
+fname="Waseem"
+cell=3332912345
+cnic="42501-90987655-5"
+qual="Bachelor"
+city="Karachi"
 print(" ======",title,"  =====")
-print("Name : Zeeshan ")
-print("F. name = Waseem")
-print("Cell No: 0333123456")
-print("CNIC: 42501-90987655-5")
-print("Qualification: Bachelor")
-print("City: Karachi")
+print("Name : ",name)
+print("F. name = ",fname)
+print("Cell No:",cell)
+print("CNIC: ",cnic)
+print("Qualification: ", qual)
+print("City: ",city)
 
-
-# In[ ]:
 
 
 
